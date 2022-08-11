@@ -62,3 +62,33 @@ java -jar /Users/stefan/apps/ili2pg-4.7.0/ili2pg-4.7.0.jar --dbhost localhost --
 java -jar /Users/stefan/apps/ili2pg-4.7.0/ili2pg-4.7.0.jar --dbhost localhost --dbport 54322 --dbdatabase pub --dbusr ddluser --dbpwd ddluser --modeldir "https://models.geo.admin.ch;." --models SO_AfU_KbS_Publikation_20220623 --dbschema afu_altlasten_pub_v1 --baskets ch.so.afu.altlast4web.public --export public.xtf
 ```
 
+
+
+---------------------------------------------------
+
+```
+java -jar /Users/stefan/apps/ili2pg-4.8.1-SNAPSHOT/ili2pg-4.8.1-SNAPSHOT.jar --dbhost localhost --dbport 54322 --dbdatabase pub --dbusr ddluser --dbpwd ddluser --nameByTopic --defaultSrsCode 2056 --createMetaInfo --strokeArcs --createBasketCol --modeldir "https://models.geo.admin.ch;." --models SO_AfU_KbS_Publikation_restricted_20220811 --dbschema afu_altlasten_pub_v1 --schemaimport
+```
+---------------------------------------------------
+
+
+```
+java -jar /Users/stefan/apps/ili2pg-4.8.1-SNAPSHOT/ili2pg-4.8.1-SNAPSHOT.jar --dbhost localhost --dbport 54322 --dbdatabase pub --dbusr ddluser --dbpwd ddluser --nameByTopic --defaultSrsCode 2056 --createMetaInfo --strokeArcs --modeldir "https://models.geo.admin.ch;." --models "SO_AfU_KbS_Publikation_20220811;SO_AfU_KbS_entlassene_Standorte_Publikation_20220811" --dbschema afu_altlasten_pub_v1 --schemaimport
+```
+
+export:
+```
+java -jar /Users/stefan/apps/ili2pg-4.8.1-SNAPSHOT/ili2pg-4.8.1-SNAPSHOT.jar --dbhost localhost --dbport 54322 --dbdatabase pub --dbusr ddluser --dbpwd ddluser --nameByTopic --defaultSrsCode 2056 --createMetaInfo --strokeArcs --modeldir "https://models.geo.admin.ch;." --models "SO_AfU_KbS_Publikation_20220811" --dbschema afu_altlasten_pub_v1 --export public.xtf
+
+java -jar /Users/stefan/apps/ili2pg-4.8.1-SNAPSHOT/ili2pg-4.8.1-SNAPSHOT.jar --dbhost localhost --dbport 54322 --dbdatabase pub --dbusr ddluser --dbpwd ddluser --nameByTopic --defaultSrsCode 2056 --createMetaInfo --strokeArcs --modeldir "https://models.geo.admin.ch;." --models "SO_AfU_KbS_entlassene_Standorte_Publikation_20220811" --dbschema afu_altlasten_pub_v1 --export restricted.xtf
+
+java -jar /Users/stefan/apps/ili2pg-4.8.1-SNAPSHOT/ili2pg-4.8.1-SNAPSHOT.jar --dbhost localhost --dbport 54322 --dbdatabase pub --dbusr ddluser --dbpwd ddluser --nameByTopic --defaultSrsCode 2056 --createMetaInfo --strokeArcs --modeldir "https://models.geo.admin.ch;." --models "SO_AfU_KbS_Publikation_20220811;SO_AfU_KbS_entlassene_Standorte_Publikation_20220811" --dbschema afu_altlasten_pub_v1 --export public_and_restricted.xtf
+```
+
+gpkg:
+```
+java -jar /Users/stefan/apps/ili2gpkg-4.8.0/ili2gpkg-4.8.0.jar --dbfile ch.so.afu.kbs_restricted.gpkg --nameByTopic --defaultSrsCode 2056 --createMetaInfo --strokeArcs --modeldir "https://models.geo.admin.ch;." --models "SO_AfU_KbS_Publikation_20220811;SO_AfU_KbS_entlassene_Standorte_Publikation_20220811" --doSchemaImport --import public_and_restricted.xt
+
+```
+
+

@@ -1,0 +1,51 @@
+INTERLIS 2.3;
+
+/** !!------------------------------------------------------------------------------
+ *  !! Version    | wer | Änderung
+ *  !!------------------------------------------------------------------------------
+ *  !! 2022-06-23 | sz  | Ersterfassung
+ *  !! 2022-08-11 | sz  | next try
+ *  !!==============================================================================
+ */
+!!@ technicalContact="mailto:agi@bd.so.ch"
+MODEL SO_AfU_KbS_Publikation_20220811 (de)
+AT "https://geo.so.ch/models/AFU"
+VERSION "2022-08-11" =
+  IMPORTS GeometryCHLV95_V1;
+
+  TOPIC KbS =
+    OID AS INTERLIS.UUIDOID;
+
+    /** Belastete Standorte
+     */
+    CLASS Belasteter_Standort  =
+        Attr1 : 1..10;
+        Code : MANDATORY TEXT;
+        Geometrie : MANDATORY GeometryCHLV95_V1.SurfaceWithOverlaps2mm;
+    END Belasteter_Standort;
+
+  END KbS;
+
+END SO_AfU_KbS_Publikation_20220811.
+
+MODEL SO_AfU_KbS_Publikation_restricted_20220811 (de)
+AT "https://geo.so.ch/models/AFU"
+VERSION "2022-08-11" =
+  IMPORTS SO_AfU_KbS_Publikation_20220811, GeometryCHLV95_V1;
+
+  TOPIC KbS 
+  EXTENDS SO_AfU_KbS_Publikation_20220811.KbS =
+    OID AS INTERLIS.UUIDOID;
+
+    /** Entlassene Standorte
+     */
+    CLASS Entlassener_Standort  =
+        AttrX : 1..10;
+        AttrY : TEXT;
+        Code : MANDATORY TEXT;
+        Geometrie : MANDATORY GeometryCHLV95_V1.SurfaceWithOverlaps2mm;
+    END Entlassener_Standort;
+
+  END KbS;
+
+END SO_AfU_KbS_Publikation_restricted_20220811.
