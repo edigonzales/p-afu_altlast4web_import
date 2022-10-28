@@ -1,0 +1,891 @@
+Info: ili2c-5.2.7-07ada86ec505cd7f785276da9c6a8610cac9149a
+Info: check file <AFW/GEFAHRENHINWEISKARTE_BL.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/GEFAHRENHINWEISKARTE_BL.ili>
+Info: check entry of model GEFAHRENHINWEISKARTE_BL
+Info: check file <EBENRAIN/ch_bl_ebenrain_amphibieninventar_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: TID=BS011011: ignored; <GX_GrundwasserstandUndTemperatur_KGDM_V1_0_LV95.ili> is not a valid modelname
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AFW/KGDM_Waldgrenzen_BL_V1_20171123.ili> in <https://models.geo.bl.ch>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part2_LOCALISATION_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/CoordSys-20151124.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part4_ADMINISTRATIVEUNITS_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part1_GEOMETRY_V1.ili>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/KGDM_Waldgrenzen_BL_V1_20171123.ili>
+Info: check entry of model Waldgrenzen_BL_V1_LV95
+Info: check file <ARP/Datenmodell Strassennetzplan.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/Datenmodell Strassennetzplan.ili>
+Info: check entry of model BL_STRASSENNETZPLAN_LV95
+Info: check file <ARP/KommunaleNutzungsplanung_BL_V2_LV95_20170101.ili> in <https://models.geo.bl.ch>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <ARP/Baulinien_kommunal_BL_V2_LV95_20190601.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/Baulinien_kommunal_BL_V2_LV95_20190601.ili>
+Info: check entry of model Baulinien_kommunal_BL_V2_LV95
+Info: check file <AGI/DM01AVBL24LV95D_20120301.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/DM01AVBL24LV95D_20120301.ili>
+Info: check entry of model DM01AVBL24LV95D_20120301
+Info: check file <AGI/ch_bl_agi_sentinel1_o139_sbas_2015_2019_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <BFS/ch_bfs_volkszaehlung_gebaeudestatistik_gebaeude_v1_0.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/ch_bfs_volkszaehlung_gebaeudestatistik_gebaeude_v1_0.ili>
+Info: check entry of model ch_bfs_volkszaehlung_gebaeudestatistik_gebaeude_v1_0
+Info: check file <AGI/ch_bl_agi_ers1_er2_sbas_1992_2000_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AFW/DM103_Gefahrenkarte_BL_20200609.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/DM103_Gefahrenkarte_BL_20200609.ili>
+Info: check entry of model DM103_20200609
+Info: check file <AGI/ch_bl_agi_sentinel1_o66_sbas_2015_2019_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <BL/bl_basis_kgdm_lv95_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <STA/ch_bl_sta_kantonales_gebaeude_und_wohnungsregister_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AGI/ch_bl_agi_sentinel1_sbas_2014_2018_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <ZRV/ch_bl_zrv_eigentumsauskunft_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AFW/ch_bl_afw_waldkarte_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CatalogueObjects_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CatalogueObjects_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AUE/KbS_LV95_V1_4_BL_V1.ili> in <https://models.geo.bl.ch>
+Info: lookup model <KbS_LV95_V1_4> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <KbS_LV95_V1_4> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <LocalisationCH_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <LocalisationCH_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part2_LOCALISATION_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/CoordSys-20151124.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part1_GEOMETRY_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/BAFU/replaced/KbS_V1_4.ili>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/KbS_LV95_V1_4_BL_V1.ili>
+Info: check entry of model KbS_LV95_V1_4_BL_V1
+Info: check file <AFG/ch_bl_afg_alterswohnen_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CatalogueObjects_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CatalogueObjects_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AUE/KbS_V1_5_BL_V1.ili> in <https://models.geo.bl.ch>
+Info: lookup model <KbS_V1_5> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <KbS_V1_5> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <InternationalCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part2_LOCALISATION_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/CoordSys-20151124.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part1_GEOMETRY_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/BAFU/KbS_V1_5.ili>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/KbS_V1_5_BL_V1.ili>
+Info: check entry of model KbS_V1_5_BL_V1
+Info: check file <EBENRAIN/ch_bl_ebenrain_ornithologisches_inventar_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <ARP/NutzungsplanungCodelisten_BL_V2_LV95_20170101.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CatalogueObjects_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CatalogueObjects_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part3_CATALOGUEOBJECTS_V1.ili>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/NutzungsplanungCodelisten_BL_V2_LV95_20170101.ili>
+Info: check entry of model NutzungsplanungBL_Codelisten_V2
+Info: check file <AUE/BL_GWSZ_20170216.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/BL_GWSZ_20170216.ili>
+Info: check entry of model BL_GrundwasserSchutzzonen
+Info: check file <AGI/ch_bl_agi_envisat_sbas_2003_2010_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AUE/ch_bl_aue_kbs_intern_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <LocalisationCH_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <LocalisationCH_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <KbS_V1_5> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <KbS_V1_5> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part2_LOCALISATION_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/CoordSys-20151124.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part1_GEOMETRY_V1.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/BAFU/KbS_V1_5.ili>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/ch_bl_aue_kbs_intern_v1_0.ili>
+Info: check entry of model ch_bl_aue_kbs_intern_v1_0
+Info: check file <AUE/ch_bl_aue_kataster_belasteter_standorte_archiv_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <BS_JSD/ch_bl_bs_jsd_defibrillatoren_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <ARP/Laermempfindlichkeitsstufen_BL_V2_LV95_20170101.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <TBA/Baulinien_kantonal_BL_V2_LV95_20170101.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/Baulinien_kantonal_BL_V2_LV95_20170101.ili>
+Info: check entry of model Baulinien_kantonal_BL_V2_LV95
+Info: check file <EBENRAIN/ch_bl_ebenrain_weiherinventar_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AFW/ch.bl.afw.forstkreise_forstreviere_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AGI/ch_bl_agi_oereb_meta_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <EBENRAIN/ch_bl_ebenrain_reptilieninventar_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <bl_basis_kgdm_lv95_v1_0> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AGI/ch_bl_agi_sentinel1_o15_sbas_2016_2019_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <ARP/KantonaleNutzungsplanung_BL_V1_LV95_20170101.ili> in <https://models.geo.bl.ch>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <NutzungsplanungBL_Codelisten_V2> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AFW/EKAT_FBB.ili> in <https://models.geo.bl.ch>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/EKAT_FBB.ili>
+Info: check entry of model EKAT_FBB
+Info: check file <AGI/ch_bl_agi_sentinel1_o88_sbas_2014_2019_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <CHAdminCodes_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.llv.li/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://405.sia.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://repositorio.proadmintierra.info/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ai.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.kgk-cgc.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.ar.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.be.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.bl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.bs.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gl.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.gr.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.lu.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.sg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://geo.so.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.sz.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.ti.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://models.geo.zg.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <http://models.geo.zh.ch/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://webgis.lisag.ch/models/>
+Info: lookup model <INTERLIS> 2.3 in repository <https://vsa.ch/models/>
+INTERLIS: model(s) not found
+Info: check file <AFK/ch_bl_afk_archaeologische_schutzzonen_v1_0.ili> in <https://models.geo.bl.ch>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <GeometryCHLV95_V1> 2.3 in repository <http://models.geo.admin.ch/>
+Info: lookup model <CoordSys> 2.3 in repository <http://models.interlis.ch/>
+Info: lookup model <Units> 2.3 in repository <http://models.interlis.ch/>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/Units-20120220.ili>
+Info: ilifile </Users/stefan/.ilicache/models.interlis.ch/refhb23/CoordSys-20151124.ili>
+Info: ilifile </Users/stefan/.ilicache/models.geo.admin.ch/CH/CHBase_Part1_GEOMETRY_V1.ili>
+Info: ilifile </var/folders/q_/q_4mw38j0nzcdjn39qpcglgm0000gn/T/ioxtmp7717144500740228214/ch_bl_afk_archaeologische_schutzzonen_v1_0.ili>
+Info: check entry of model ch_bl_afk_archaeologische_schutzzonen_v1_0
+compile failed with files: EBENRAIN/ch_bl_ebenrain_amphibieninventar_v1_0.ili, AUE/ch_bl_aue_kataster_belasteter_standorte_archiv_v1_0.ili, AGI/ch_bl_agi_sentinel1_o66_sbas_2015_2019_v1_0.ili, AFW/ch.bl.afw.forstkreise_forstreviere_v1_0.ili, AFW/ch_bl_afw_waldkarte_v1_0.ili, AGI/ch_bl_agi_sentinel1_o88_sbas_2014_2019_v1_0.ili, ARP/KommunaleNutzungsplanung_BL_V2_LV95_20170101.ili, AGI/ch_bl_agi_sentinel1_sbas_2014_2018_v1_0.ili, EBENRAIN/ch_bl_ebenrain_weiherinventar_v1_0.ili, EBENRAIN/ch_bl_ebenrain_reptilieninventar_v1_0.ili, AFG/ch_bl_afg_alterswohnen_v1_0.ili, AGI/ch_bl_agi_ers1_er2_sbas_1992_2000_v1_0.ili, AGI/ch_bl_agi_sentinel1_o139_sbas_2015_2019_v1_0.ili, BL/bl_basis_kgdm_lv95_v1_0.ili, EBENRAIN/ch_bl_ebenrain_ornithologisches_inventar_v1_0.ili, ARP/Laermempfindlichkeitsstufen_BL_V2_LV95_20170101.ili, AGI/ch_bl_agi_envisat_sbas_2003_2010_v1_0.ili, ZRV/ch_bl_zrv_eigentumsauskunft_v1_0.ili, BS_JSD/ch_bl_bs_jsd_defibrillatoren_v1_0.ili, AGI/ch_bl_agi_sentinel1_o15_sbas_2016_2019_v1_0.ili, AGI/ch_bl_agi_oereb_meta_v1_0.ili, ARP/KantonaleNutzungsplanung_BL_V1_LV95_20170101.ili, STA/ch_bl_sta_kantonales_gebaeude_und_wohnungsregister_v1_0.ili
+check of ili's in repositories failed

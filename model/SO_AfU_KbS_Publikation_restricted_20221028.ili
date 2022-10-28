@@ -1,0 +1,54 @@
+INTERLIS 2.3;
+
+/** !!------------------------------------------------------------------------------
+ *  !! Version    | wer | Änderung
+ *  !!------------------------------------------------------------------------------
+ *  !! 2022-10-28 | sz  | Ersterfassung
+ *  !!==============================================================================
+ */
+!!@ technicalContact=mailto:agi@bd.so.ch
+!!@ furtherInformation=http://geo.so.ch/models/AFU/SO_AfU_KbS_Publikation_restricted_20221028.uml
+MODEL SO_AfU_KbS_Publikation_restricted_20221028 (de)
+AT "https://afu.so.ch"
+VERSION "2022-10-28"  =
+  IMPORTS GeometryCHLV95_V1;
+
+  TOPIC Belastete_Standorte =
+
+    /** Objekte aus dem Kataster der belasteten Standorte. Es werden auch Objekte verwaltet, die rechtlich nicht Bestandteil des Katasters sind.
+     */
+    CLASS Belasteter_Standort =
+      /** Bezeichnung des Standortes
+       */
+      Bezeichnung : MANDATORY TEXT*200;
+      /** Fläche (Multipolygon)
+       */
+      Geometrie : MANDATORY GeometryCHLV95_V1.MultiSurface;
+      /** Eindeutige Nummer des KbS-Standortes (Teilflächen werden mit einer fortlaufenden zweistelligen Zahl ergänzt)
+       */
+      Laufnummer : MANDATORY TEXT*50;
+      /** Typ des Belastungsstandortes
+       */
+      Standorttyp : MANDATORY TEXT*50;
+      /** Belastung der (Teil-)Fläche
+       */
+      BelastungFlaeche : MANDATORY TEXT*200;
+      /** Stand der Untersuchung
+       */
+      Untersuchungsstand : MANDATORY TEXT*100;
+      /** Zeigt den Untersuchungs- und Bearbeitungsstand kommasepariert an
+       */
+      Stand : MANDATORY TEXT*300;
+      /** Zuständigkeit des Standortes
+       */
+      Zustaendigkeit : MANDATORY (
+        !!@ ili2db.dispName="nicht Kanton Solothurn"
+        nicht_Kt_SO,
+        !!@ ili2db.dispName="Kanton Solothurn"
+        Kt_SO
+      );
+    END Belasteter_Standort;
+
+  END Belastete_Standorte;
+
+END SO_AfU_KbS_Publikation_restricted_20221028.

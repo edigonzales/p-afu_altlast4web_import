@@ -1,0 +1,36 @@
+INTERLIS 2.3;
+
+/** !!------------------------------------------------------------------------------
+ *  !! Version    | wer | Änderung
+ *  !!------------------------------------------------------------------------------
+ *  !! 2022-06-23 | sz  | Ersterfassung
+ *  !!==============================================================================
+ */
+!!@ technicalContact="mailto:agi@bd.so.ch"
+MODEL SO_AfU_KbS_20220623 (de)
+AT "https://geo.so.ch/models/AFU"
+VERSION "2022-06-23"  =
+  IMPORTS GeometryCHLV95_V1;
+
+  TOPIC KbS =
+    OID AS INTERLIS.UUIDOID;
+
+    /** Belastete Standorte
+     */
+    CLASS Standort  =
+        Code : MANDATORY TEXT;
+        Geometrie : MANDATORY GeometryCHLV95_V1.SurfaceWithOverlaps2mm;
+    END Standort;
+
+    /** Die unbelasteten Standorte... (siehe E-Mail M. Schweizer 28.02.2022)
+     * Es geht nicht um das Filtern von Attributen, sondern von Zeilen.
+     * In dieser Klasse sind nur noch die "unbelasteten" Standorte.
+     * Ah wegen Datenabgabe trotzdem in ein zusatzliches Modell?
+     */
+    CLASS Standort_unbelastet
+    EXTENDS SO_AfU_KbS_20220623.KbS.Standort =
+    END Standort_unbelastet;
+
+  END KbS;
+
+END SO_AfU_KbS_20220623.
